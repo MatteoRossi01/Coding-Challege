@@ -1,0 +1,93 @@
+/* sfondo */
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-color: #CCCCCC;
+  display: inline-block;
+  }
+/* box */
+.container{
+  border-radius: 10px 10px 10px 10px;
+  width: 800px;
+  height: 550px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 15px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* Logo */
+img{
+  width: 150px;
+  height: 75px;
+  margin-left: 40%;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.titolo{
+  font-family: arial, serif;
+  color: #7CFC00;
+  margin-left: 30%;
+  margin-top: px;
+}
+
+/* funzionalità */
+.box-bottoni{
+  margin-left: 10%;
+  margin-top: 5px;
+  background-color: #7CFC00;
+  width: 625px;
+  height: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+/* monopattini */
+.bottoni{
+  margin-left: 86px;
+  font-size: 70%;
+}
+
+.monopattino{
+  margin-top: 30px;
+}
+
+div .stile-titolo{
+  margin-left: 10%;
+  font-family: arial, serif;
+  color: white;
+  font-size: 85%;
+}
+
+div .descrizione{
+  margin-left: 10%;
+  font-family: arial, serif;
+  color: #CDC8B1;
+  font-size: 70%;
+}
+
+/* cariche */
+div .carica1{
+  background-color:  #DAA520;
+  width: 250px;
+  height: 20px;
+  margin-left: 10%;
+  border-radius: 5px 5px 5px 5px;
+}
+
+div .carica2{
+  background-color:  #008B00;
+  width: 425px;
+  height: 20px;
+  margin-left: 10%;
+  border-radius: 5px 5px 5px 5px;
+}
+
+div .carica3{
+  background-color:  #B0171F;
+  width: 120px;
+  height: 20px;
+  margin-left: 10%;
+  border-radius: 5px 5px 5px 5px;
+}
